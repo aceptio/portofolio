@@ -22,8 +22,8 @@ Dibuat dengan React + Vite, ini adalah showcase dari project, skill, dan karya y
 
 1. Clone repository ini:
 ```bash
-git clone https://github.com/aceotio/portofolio.git
-cd portofolio
+git clone https://github.com/aceotio/AcepPortofolio.git
+cd AcepPortofolio
 ````
 
 2. Install dependencies:
