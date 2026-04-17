@@ -120,7 +120,7 @@ export const listProyek = [
     image: Animasi3D,
     title: "3D Animation Project",
     subtitle: "Exploration of digital animation by applying basic principles to produce dynamic and interactive visuals.",
-    fullDescription:"Membuat animasi menggunakan Blender dan After Effects dengan menerapkan prinsip dasar animasi seperti timing, easing, dan transisi. Hasil proyek ini mendapatkan evaluasi yang baik dalam kegiatan akademik.",
+    fullDescription:"Creating an animation using Blender and After Effects, applying basic animation principles such as timing, easing, and transitions. This project received a positive academic evaluation.",
     borderColor: "#3B82F6",
     gradient: "linear-gradient(145deg, #3B82F6, #000)",
     dad: "300",

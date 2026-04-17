@@ -91,7 +91,7 @@ function App() {
             />
             <div className="flex items-center sm:gap-4 gap-2">
               <a  
-              href="https://drive.google.com/file/d/11gAEilDIw5OhDIOtuqCyZ7oHaIzQ_hI1/view?usp=sharing"
+              href="https://drive.google.com/file/d/1yj35tHVC-NeTOLFdARZbWn_UgPK-jNUz/view?usp=drive_link"
               download="AcepTio_CV.pdf"
               target="_blank"
               rel="noopener noreferrer"
